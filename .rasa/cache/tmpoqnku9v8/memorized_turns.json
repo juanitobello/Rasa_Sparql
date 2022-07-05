@@ -1,0 +1,12 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_iamabot",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfGZibmJSfklOM2IBQCtrzVd": "utter_primera_pregunta",
+    "eJyljEEKgDAMBL/SB/iCfkWkRFlKwKYlTb0U/25Br+LB0+7AMHM/J9eL4gi0GWfxrt8nCCV498DO1SDDbRU6HJaB5l1UwM6PRjODBqZEa7ZfjaKcoDQWsYnRa2y5ADjtUw0=": "action_listen",
+    "eJylj1EKAjEMRK+SA+wJepVlCXGNS9CmS5oqUnp3A+qnCPo1MzDzYOY+Jui78RVpdSmaoD8NKmVO8AoXqc4a3VbZoiMa0RNsxuzjC6O5s6FQpkPxvxi7SWajUN6aOv0I+3AqAOLCNcF85jveih2XCd7kUBQ9Fcu0xnqM5QEaQ3kw": "action_consulta",
+    "eJylj10KAjEMhK+SA+wJepVlKbHGJbhNlzRVpOzdDajgi/j3NBmYfJOMfRugr0qniMm4SIB+G6JgpgB3s3A1Es+2SuoZFrcWYFYi294wmhlpZMy4K/YXY1XOpOhKcxPDH2EvnnIAG1MNMB7pEs9F99MAD7JrZDkUzZh8+8OOVKS25fnSL1umKyd1oC0=": "utter_escribe_otra_pregunta",
+    "eJytkG8KwjAMxa/SA+wEvcoYJatxBNd0pKkiZXc3MAU/KP79lDxIfi95fVs71xbBY4ColNm7tjWBIaF3VzFTUWSbrQXFZohNqneTIOr6glFVUQJBgjHrT4xFKKGAVZwqK3wJe/KUAUgJi3f9Ac/hlGU3dO5GthqI91kSRNt+0yNmLnW+v/SvLlssWKLQiCHrw2w+dBwuUUHMLg==": "action_hello_world",
+    "eJy1kGEKwjAMha/SA+wEvcoYJeviDLbNSFNFxu5uZQr+UJSpv5IHL99L0s5LY+ZJ8OjAK3GyZl4blyCiNTcRKCum6i0ZpXooVanWjIKoyxtGUUVxBBF61q8Yk1BEgVpxLElhI+zFURVASpitaQ94dieWoWvMnVyro7RjieDr9IcZnlMu4XHTn6asb8HshXp0rE9/84+79hgCX1Fh2BzUXQBQcPRd": "action_listen"
+  }
+}

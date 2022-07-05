@@ -1,0 +1,61 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - int_informacion:
+      use_entities:
+        - key_word
+  -int_deficion:
+      use_entities:
+        - word_todef
+
+
+entities: 
+  - key_word
+  - word_todef
+
+
+actions: 
+  - action_consulta
+  - action_hello_world
+  - action_definicion
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_primera_pregunta:
+  - text: "Sobre que quieres saber? \nPuedes preguntar sobre por ex: Steve Jobs, Ecuador, palabras."
+
+  utter_escribe_otra_pregunta:
+    - text: "Escribe una pregunta: \nQuien fue... \nDefine --- \nIInformacion de..."
+
+  
+
+
+
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

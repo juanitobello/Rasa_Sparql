@@ -1,0 +1,23 @@
+version: "3.1"
+
+stories:
+
+- story: story_persons
+  steps:
+    - intent: greet    
+    - action: utter_iamabot
+    - action: utter_primera_pregunta
+    - intent: int_informacion
+      entities: 
+        - key_word: "Steve jobs"
+    - action: action_consulta
+    - action: utter_escribe_otra_pregunta
+    - action: action_hello_world
+
+-story: story_definition
+  steps: 
+    - intent: int_deficion
+    - action: action_consulta
+    - action: utter_escribe_otra_pregunta
+    - action: action_hello_world
+
